@@ -1,0 +1,10 @@
+body {
+    color: white;
+}
+
+
+.footer {
+    position: absolute;
+    bottom: 1px;
+    color: #7ef35b;
+}
